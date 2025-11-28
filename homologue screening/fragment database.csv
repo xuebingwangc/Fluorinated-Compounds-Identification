@@ -1,0 +1,87 @@
+ion,type,m/z
+FSO2-,fragment,82.96085
+FSO3-,fragment,98.95577
+HF2-,fragment,39.00518
+CF3-,fragment,68.99576
+CF3O-,fragment,84.99067
+CF2SO3-,fragment,129.95417
+C2F3-,fragment,80.99576
+C2F5-,fragment,118.99256
+C2ClF4-,fragment,134.96301
+C2F5O-,fragment,134.98748
+C2F4SO3-,fragment,179.95098
+C2F5SO3-,fragment,198.94939
+C3F3-,fragment,92.99576
+C3F3O-,fragment,108.99067
+C3F5-,fragment,130.99256
+C3F5O-,fragment,146.98748
+C3F7-,fragment,168.98937
+C3F7O-,fragment,184.98429
+C3F6SO3-,fragment,229.94779
+C4F3-,fragment,104.99576
+C4F5-,fragment,142.99256
+C4F7-,fragment,180.98937
+C4F6Cl-,fragment,196.95982
+C4F7O-,fragment,196.98429
+C4F9-,fragment,218.98618
+C4F9O-,fragment,234.98109
+C4F9O2-,fragment,250.97601
+C4F8ClO2-,fragment,266.94646
+C4F8SO3-,fragment,279.94459
+C5F-,fragment,78.99895
+C5F5O-,fragment,170.98748
+C5F7-,fragment,192.98937
+C5F9-,fragment,230.98618
+C5F8Cl-,fragment,246.95663
+C5F11-,fragment,268.98299
+C5F10SO3-,fragment,329.94141
+C5Cl2F9O2-,fragment,332.91371
+C6HO2F2-,fragment,142.99501
+C6F9-,fragment,242.98618
+C6F11-,fragment,280.98298
+C6F13-,fragment,318.9798
+C6F13O-,fragment,334.9736
+C6F12ClO3-,fragment,382.93498
+C7F7-,fragment,216.98937
+C7F9-,fragment,254.98618
+C7F11-,fragment,292.98298
+C7F13-,fragment,330.97979
+C7F12Cl-,fragment,346.95024
+C7F15-,fragment,368.97661
+C7F15O3-,fragment,416.96134
+C8F13-,fragment,342.97979
+C8HF14O-,fragment,378.98093
+C8F15-,fragment,380.9766
+C8H2F11SO3-,fragment,386.95545
+C8H3F12SO3-,fragment,406.96168
+C8F17-,fragment,418.97342
+C8F16ClO-,fragment,450.9388
+C8F15SO4-,fragment,476.92833
+C8HF17NSO2-,fragment,497.9462
+C8Cl2F15O3-,fragment,498.89905
+C8F16ClSO4-,fragment,530.89558
+C9F17-,fragment,430.9734
+C9F19-,fragment,468.97023
+C9F18Cl-,fragment,484.94066
+C9ClF18O3-,fragment,532.9254
+C9F18ClO4-,fragment,548.92032
+C10F19-,fragment,480.97022
+C10F20ClSO4-,fragment,630.8892
+C10F21-,fragment,518.96704
+C11Cl2F21O4-,fragment,664.88438
+C11F21-,fragment,530.96702
+C11F23-,fragment,568.96385
+C12F24ClSO4-,fragment,730.88282
+C12F25-,fragment,618.96066
+C12HF22O2-,fragment,594.96307
+C13H4F11SO4-,fragment,464.96601
+C15H4F17SO4-,fragment,602.95643
+NSO2-,fragment,77.96552
+HF,neutral loss,20.00623
+CF2,neutral loss,49.99681
+C2F4,neutral loss,99.99361
+CF2O,neutral loss,65.99172
+C3F6O,neutral loss,165.98533
+C2F4O,neutral loss,115.98853
+CHFO2,neutral loss,63.99606
+H2F2,neutral loss,40.01246
